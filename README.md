@@ -68,6 +68,10 @@ This lab introduces various techniques and directives which can be used in Vitis
 ### Lab 4 ：HLS Design Flow – System Integration
 This lab illustrates the HLS design flow for generating IP from the Vitis™ HLS tool. The generated IP is then used to create a subsystem with the Arm® processor from a Zynq® UltraScale+™ MPSoC using the Vivado® IP integrator. The hardware from the Vivado Design Suite is imported into the Vitis environment, and the FIR application is then run on the PYNQ-ZU development board.
 
+### Some known issues regarding co-simulation
+https://support.xilinx.com/s/question/0D52E00006iHvFfSAK/why-vhdl-cosimulation-done-but-verilog-doesnt-working?language=en_US
+https://support.xilinx.com/s/question/0D52E00006hphNNSAY/dataflow-design-fails-rtl-cosim-when-switching-input-from-apfifo-to-axis?language=en_US
+
 
 
 <p align="center">Copyright&copy; 2022, Advanced Micro Devices, Inc.</p>
