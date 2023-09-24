@@ -70,6 +70,7 @@ This lab illustrates the HLS design flow for generating IP from the Vitis™ HLS
 
 ### Some known issues regarding co-simulation
 https://support.xilinx.com/s/question/0D52E00006iHvFfSAK/why-vhdl-cosimulation-done-but-verilog-doesnt-working?language=en_US
+
 https://support.xilinx.com/s/question/0D52E00006hphNNSAY/dataflow-design-fails-rtl-cosim-when-switching-input-from-apfifo-to-axis?language=en_US
 
 
